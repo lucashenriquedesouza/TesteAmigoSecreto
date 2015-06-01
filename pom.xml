@@ -2,7 +2,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.javahonk</groupId>
-	<artifactId>SpringMVCAngularJSService</artifactId>
+	<artifactId>TesteAmigoSecreto</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>SpringMVCAngularJSService Maven Webapp</name>
@@ -56,7 +56,7 @@
         </dependency>
 	</dependencies>
 	<build>
-		<finalName>SpringMVCAngularJSService</finalName>
+		<finalName>TesteAmigoSecreto</finalName>
 		<plugins>
 			<plugin>
 				<artifactId>maven-compiler-plugin</artifactId>
